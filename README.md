@@ -67,5 +67,4 @@ Our project **Shiksha Sankalp**, provides a platform to record, analyze and scal
 [![Hitesh P](https://img.shields.io/badge/hitesh%20p-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-p-aa55662a3) &nbsp;
 [![Kishore S R](https://img.shields.io/badge/kishore%20s%20r-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kishore-SR) &nbsp;
 [![Harshavardhan M](https://img.shields.io/badge/harshavardhan%20m-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshavardhan-md/) &nbsp;
-
 [![Jeevan N](https://img.shields.io/badge/jeevan%20n-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-n-39a5652a3/)
